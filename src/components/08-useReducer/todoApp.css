@@ -1,0 +1,19 @@
+body {
+  padding: 70px;
+}
+
+.li-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.complete {
+  text-decoration: line-through;
+}
+
+.parrafo {
+  text-align: left;
+  margin: 0;
+}
